@@ -1,4 +1,9 @@
-# essentials
+# 校园电视台-前端服务
+
+## 技术栈
+- vue3
+- css框架：unocss
+- 构建工具：vite
 
 ## Project setup
 
